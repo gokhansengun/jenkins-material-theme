@@ -4,7 +4,6 @@ node_modules/
 .vagrant/
 .sass-cache/
 _site/
-dist/
 hpi/material-theme/
 hpi/material-theme.zip
 .tmp/
